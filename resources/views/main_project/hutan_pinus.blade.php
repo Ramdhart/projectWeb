@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>More-about Hutan Pinus</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="/other-menus/css/clean-blog.min.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand" href="/">NGETRIP</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('../images/Hutan Pinus full.png')">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="site-heading">
+              <h1>Hutan Pinus</h1>
+              <span class="subheading">Imogiri</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-preview">
+            <img style="width: 663px; height: 382px" src="http://petatempatwisata.com/wp-content/uploads/2016/05/Hutan-Pinus-Imogiri-2_800x600.jpg">
+            <p>Hutan Pinus Mangunan merupakan bagian dari Resort Pengelolaan Hutan (RPH) Mangunan yang lokasinya tak jauh dari Imogiri, Bantul, Yogyakarta. Karena itu, orang-orang kerap menyebutnya dengan nama Hutan Pinus Imogiri. Di kawasan ini, travelers bisa menyaksikan deretan pohon pinus yang tegak menjulang dengan indahnya.
+            Ribuan pohon pinus  di Hutan Pinus Imogiri berdiri dengan tegak di kawasan seluas 500 Ha. Saat angin bertiup, daun-daunnya bakal mengeluarkan aroma khas hutan pinus yang tajam. Nggak heran jika banyak yang mencari ketenangan saat berkunjung ke Hutan Pinus Imogiri. Selain itu, hutan indah ini juga sering dimanfaatkan oleh pasangan muda untuk foto pre wedding. 
+
+Pohon pinus juga dikenal sebagai lambang cinta orang Korea. Menurut mereka, pohon pinus yang berbatang tegak lurus adalah simbol cinta yang lurus dan tidak bercabang-cabang. Sedangkan daun pinus yang selalu hijau diibaratkan sebagai cinta yang tak pernah berakhir. Ehm, pantas aja banyak pasangan yang foto pre wedding di sana!</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            <img style="width: 663px; height: 382px" src="http://spotunik.com/assets/images/spots/hutan-pinus-imogiri-mangunan-20160710122425.jpg">
+            <p>Kawasan yang ditanam pohon tersebut bukan hanya sebagai tempat wisata, tapi juga sebagai hutan lindung. Untuk tujuan wisata, Hutan Pinus Imogiri juga memiliki fasilitas lain, seperti gardu panjang, panggung pertujukan yang menyatu dengan alam, kamar mandi umum, mushola, dan warung-warung sederhana. Keberadaan sumber mata air Bengkung di Hutan Pinus Imogiri juga menarik perhatian masyarakat karena sumber mata air itu dipercaya sebagai lokasi pertapaan Sultan Agung Hanyakrakusuma.
+
+Untuk menuju ke sana, ada beberapa jalan yang bisa ditempuh, bisa dengan trekking dari tempat parkir menembus hutan yang rapat mengikuti jalur outbond Watu Abang atau jalan melingkar yang lebih jauh, tapi bisa ditempuh dengan sepeda atau sepeda motor.</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+              <h2 class="post-title">
+                Akomodasi
+              </h2>
+              <img style="width: 663px; height: 382px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQKweznBNu-p7WbZ0LNpn8gnAufWJuQ3eN3uyOzm_YKjbEngCO">
+            <p>Hutan Pinus Imogiri terletak di Desa Dlingo, Mangunan, Bantul. Tidak ada tiket masuk yang perlu dibayar. Kamu hanya perlu membayar biaya parkir sebesar Rp 3.000* untuk motor dan Rp 10.000* untuk mobil.</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+              <h3 class="post-subtitle">
+                Siap-siap NGETRIP bro
+              </h3>
+              <h7>klik gambar buat cek akomodasi yang pas buat lo</h7>
+              <a href="https://www.traveloka.com/en/hotel/search?spec=18-04-2018.19-04-2018.1.1.LANDMARK.900000001092.Imogiri%20Pine%20Forest.1">
+              <img src="../images/Traveloka_Primary_Logo.png"></a>
+          </div>
+          <hr>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <ul class="list-inline text-center">
+              <li class="list-inline-item">
+                <a href="#">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            </ul>
+            <p class="copyright text-muted">Copyright &copy; NGETRIP 2018</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="/other-menus/js/clean-blog.min.js"></script>
+
+  </body>
+
+</html>
